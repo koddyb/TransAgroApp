@@ -232,7 +232,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
     private String getDirectionUrl(LatLng origin, LatLng destination) {
         String strOrigin = "origin=" + origin.latitude + "," + origin.longitude;
         String strDest = "destination=" + destination.latitude + "," + destination.longitude;
-        String key = "VOTRE_CLEF_API"; // Remplacez par votre clé API Google Directions
+        String key = ""; // Remplacez par votre clé API Google Directions
         String parameters = strOrigin + "&" + strDest + "&key=" + key;
         String output = "json";
         return "https://maps.googleapis.com/maps/api/directions/" + output + "?" + parameters;
