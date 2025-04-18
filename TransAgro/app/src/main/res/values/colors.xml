@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Couleurs principales (ex. issues du logo) -->
+    <color name="greenPrimary">#359E86</color>
+    <color name="pinkPrimary">#E20070</color>
+    <!-- Couleurs supplémentaires, si besoin -->
+    <color name="greenDark">#26816A</color>
+    <color name="pinkDark">#B40058</color>
+</resources>

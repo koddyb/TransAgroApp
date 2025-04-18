@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransAgro</string>
+    <string name="login_button">Se connecter</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="app_logo_description">Logo de l\'application</string>
+</resources>
